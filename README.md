@@ -20,7 +20,10 @@ Beyond the check-in, AdvocacyOS features the "Holistic Energy Ledger," where you
 
 **Important Disclaimer:** It is crucial to understand that AdvocacyOS does not offer tailored Ayurvedic recommendations or provide medical diagnosis. The information and suggestions presented here are for educational purposes only and are not a substitute for professional medical or Ayurvedic advice. For personalized guidance, proper diagnosis, or to advance in your practice of Ayurveda and Yoga, consulting with a qualified Ayurvedic Practitioner is always the recommended next step. This project is not conceptualized to allow users to enter their own Ayurvedic sequences, aiming instead toward a directory of practitioners for such specialized needs.
 
+___
 
+
+Any remaining [MIT License; Copyright (c) 2025 Dr. Debabrata Mondal](LICENSE) will be considered later, when Eeshvar has time.
 
 ___
 
