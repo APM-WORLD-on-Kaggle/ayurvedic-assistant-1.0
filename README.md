@@ -5,7 +5,7 @@ Eeshvar will later consider making into AGPL 3.0.)
 
 Any remaining [MIT License; Copyright (c) 2025 Dr. Debabrata Mondal](LICENSE) will be considered later, when Eeshvar has time.
 
-It appears some AGPL 3.0 licensing might be okay for the open source free parts of AdvocacyOS
+It appears some AGPL 3.0 licensing might be okay for the open source free parts of APM-WORLD
 before being able to make full licensing considerations.
 
 ___
