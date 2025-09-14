@@ -10,7 +10,7 @@ before being able to make full licensing considerations.
 
 ___
 
-## About APM-WORLD: Your Personal Operating System for Justice and Self-Advocacy
+## About the new APM-WORLD feature: Self-Advocacy
 
 Welcome to APM-WORLD, an innovative, open-source application conceptualized by Eeshvar Das. Designed with this new "Self-Advocacy," this new feature for APM-WORLD empowers you in managing both your finances and personal well-being holistically.
 
