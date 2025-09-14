@@ -3,7 +3,7 @@ Copyright 2025 Eeshvar Das (Erik Douglas Ward)
 (Eeshvar Das (Erik Douglas Ward) now creating All Rights Reserved 2025 Copyrights
 Eeshvar will later consider making into AGPL 3.0.)
 
-Any remaining ['MIT' licensing](LICENSE) will be considered later, when Eeshvar has time.
+Any remaining [MIT License; Copyright (c) 2025 Dr. Debabrata Mondal](LICENSE) will be considered later, when Eeshvar has time.
 
 It appears some AGPL 3.0 licensing might be okay for the open source free parts of AdvocacyOS
 before being able to make full licensing considerations.
